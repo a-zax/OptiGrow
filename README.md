@@ -20,5 +20,6 @@ Database and Management: MONGOOSE, MONGODB COMPASS
 ![image](https://github.com/a-zax/OptiGrow/assets/98326388/f6666397-47a6-4a2b-acfa-41f370c8cab5)
 ![image](https://github.com/a-zax/OptiGrow/assets/98326388/d213ba58-176b-4aeb-9a41-8e57fdf9c09f)
 ![image](https://github.com/a-zax/OptiGrow/assets/98326388/61f4190d-3580-4598-a570-b31811d567aa)
+![image](https://github.com/a-zax/OptiGrow/assets/98326388/e1bdfdc8-2a8e-423e-89ab-50c175917405)
 ![image](https://github.com/a-zax/OptiGrow/assets/98326388/3edee786-08e3-4d4e-81d9-6bdf02604cad)
 ![image](https://github.com/a-zax/OptiGrow/assets/98326388/1e09b328-90f7-4bdf-85b7-5f9d47e8c305)
