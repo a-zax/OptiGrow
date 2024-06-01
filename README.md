@@ -3,3 +3,11 @@ Our platform streamlines investment by automating portfolio management, enabling
 
 Challenges we ran into▶️
 We encountered data synchronization issues, causing portfolio metrics to misalign with real-time market changes. The breakthrough came with implementing a robust caching system and optimized data-fetching algorithms. This significantly improved the responsiveness and accuracy of portfolio updates, enhancing the user experience and reliability of investment tracking.
+
+Technologies Used▶️
+REACT
+NODE.JS
+POSTMAN
+PYTHON
+MONGOOSE
+MONGODB COMPASS
